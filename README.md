@@ -3,7 +3,7 @@ This is a simple website design for the University of Trinity. It serves as a ba
 
 ## Demo
 You can view the live version of the project by clicking the link below:
-
+https://chenling65.github.io/university-website-design/home.html
 
 ## Project Overview
 This project was developed to create a fully responsive and interactive website that includes key features such as:
