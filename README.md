@@ -1,5 +1,3 @@
-This is a simple website design for the University of Trinity. It serves as a basic online presence for the university with essential information.
-
 ## Demo
 You can view the live version of the project by clicking the link below:
 
