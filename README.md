@@ -28,6 +28,7 @@ The website has been designed with user experience (UX) principles in mind, ensu
 
 ## Technologies Used
   •	HTML5: For the structure of the web pages.
+  
   •	CSS3: For styling and layout.
-  •	JavaScript: For interactive elements and dynamic content.
+•	JavaScript: For interactive elements and dynamic content.
   •	GitHub Pages: Used for hosting the website.
