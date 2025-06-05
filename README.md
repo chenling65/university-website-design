@@ -12,7 +12,7 @@ This project was developed to create a fully responsive and interactive website 
 •	Homepage: Overview of the university with important announcements and links.
 ![image](https://github.com/user-attachments/assets/e9968947-c8d5-489b-83d7-9ead4213f00e)
  
-•	About Us: Detailed information about the university’s history, mission, and values.
+•	About Us: Detailed information about the university’s facilities.
  ![shuenning github io_University%20of%20Trinity_aboutus html (1)](https://github.com/user-attachments/assets/e34f69b9-7cbb-45ca-b658-a8ddf0cd6b2c)
  
 •	Programs: A comprehensive list of academic programs offered by the university.
