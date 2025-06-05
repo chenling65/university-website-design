@@ -1,5 +1,4 @@
 # university-website-design
-
 This is a simple website design for the University of Trinity. It serves as a basic online presence for the university with essential information.
 
 ## Demo
@@ -23,12 +22,11 @@ This project was developed to create a fully responsive and interactive website 
 •	Interactive Features: Dynamic content such as event calendars, news updates, and more.
  ![shuenning github io_University%20of%20Trinity_newsevents html](https://github.com/user-attachments/assets/4dc0e753-6810-4513-84b8-16b79926adf0)
  
-
 The website has been designed with user experience (UX) principles in mind, ensuring ease of navigation and accessibility across all devices.
 
 ## Technologies Used
-  •	HTML5: For the structure of the web pages.
+•	HTML5: For the structure of the web pages.
   
-  •	CSS3: For styling and layout.
+•	CSS3: For styling and layout.
+
 •	JavaScript: For interactive elements and dynamic content.
-  •	GitHub Pages: Used for hosting the website.
